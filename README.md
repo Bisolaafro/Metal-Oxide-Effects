@@ -1,4 +1,3 @@
-# Metal-Oxide-Effects
 # Metal Oxide Concentrations and Weather Conditions in an Italian City
 
 ## Project Overview
